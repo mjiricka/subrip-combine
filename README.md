@@ -1,5 +1,5 @@
 # subrip-combine
-Very simple script that combines two SubRip subtitles: it takes time from one file and subtitles text from other.
+Very simple script that combines two SubRip subtitles: it takes time from one file and subtitles text from the other.
 
 
 ## When it is useful
@@ -9,7 +9,7 @@ I was doing a translation of subtitles. A new version of the original subtitles 
 
 ## Usage
 
-All the hard work is done by [pysrt](https://pypi.python.org/pypi/pysrt) module. So it needed to be installed:
+All the hard work is done by [pysrt](https://pypi.python.org/pypi/pysrt) module. So it must be installed:
 
      sudo pip install pysrt
 
